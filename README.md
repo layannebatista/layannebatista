@@ -25,9 +25,6 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 ## 🌟 Projetos em destaque
 - 🚧 Projeto de estudos em automação de testes utilizando **Cypress**, **Rest Assured** e **Playwright** (em andamento)  
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?layannebatista-lab&show_icons=true&theme=radical)
-
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/layanne-batista/)
 - ✉️ E-mail: [contato.layanne.batista@gmail.com]
