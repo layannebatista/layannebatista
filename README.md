@@ -23,7 +23,7 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 - Integração de pipelines de CI/CD com testes automatizados  
 
 ## 🌟 Projetos em destaque
-- 🚧 Projeto de estudos em automação de testes utilizando **Cypress**, **Rest Assured** e **Playwright** (em andamento)  
+- 🚧 Projeto de estudos em automação de testes utilizando **Cypress**, **Rest Assured** e **Playwright** (em andamento) 
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/layanne-batista/)
