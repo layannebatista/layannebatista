@@ -17,15 +17,7 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 
 ---
 
-## 🛠️ O que eu entrego
-- **Estratégia de Testes:** Manuais, Funcionais, Regressivos e Exploratórios (Web e API)  
-- **Documentação Técnica:** Cenários de teste e evidências de auditoria  
-- **Gestão de Defeitos:** Análise de causa raiz e reporte assertivo (Jira, Azure DevOps)  
-- **Agilidade:** Vivência em Scrum e Kanban, facilitando comunicação entre Devs e POs  
-
----
-
-## 🚀 Tech Stack & Ferramentas
+## 🛠️ Tech Stack & Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -44,10 +36,16 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 
 ---
 
-## 📊 Estatísticas
+## 🎬 Diversão no meu perfil
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layannebatista&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layannebatista&layout=compact&theme=radical"/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SEUUSUARIO)
+![Profile views](https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue)
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+
+![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
