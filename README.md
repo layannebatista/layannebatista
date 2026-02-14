@@ -59,3 +59,52 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 </div>
 
 </div>
+
+---
+
+## 📂 Projeto em destaque: Asset Management
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Java%2017-green?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framework-Spring%20Boot%203.5.9-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Migrations-Flyway-red?style=for-the-badge&logo=flyway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-JWT-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tests-JUnit%205%20%26%20Mockito-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Build-Maven-orange?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+</div>
+
+### 🎯 Objetivo
+Sistema corporativo para **gestão de ativos empresariais**, garantindo controle, rastreabilidade e eficiência na administração de recursos.
+
+### 🔧 Funcionalidades principais
+- Cadastro e edição de ativos  
+- Controle de status e histórico de movimentações  
+- Validação de dados com Jakarta Validation  
+- Segurança com autenticação JWT e RBAC/ABAC  
+- Monitoramento com Spring Actuator (health, métricas)  
+- Cache para otimização de consultas  
+- Migrações de banco com Flyway  
+- Testes automatizados com JUnit 5 e banco em memória H2  
+
+### 🚀 Tecnologias utilizadas
+- **Java 17**  
+- **Spring Boot (Web, Data JPA, Security, Validation, Cache, Actuator)**  
+- **PostgreSQL**  
+- **Flyway** para versionamento do banco  
+- **JWT** para autenticação e autorização  
+- **JUnit 5 + Mockito + H2** para testes  
+- **Maven** para build e gerenciamento de dependências  
+- **Plugins:** Spotless (formatação), OWASP Dependency Check (segurança), JaCoCo (cobertura de testes)  
+
+<div align="center">
+
+📌 [Acesse o repositório](https://github.com/layannebatista/asset-management)
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+
+</div>
+
