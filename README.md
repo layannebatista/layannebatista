@@ -1,35 +1,65 @@
-# Olá, eu sou a Layanne 
+<div align="center">
 
- **Objetivo:** Garantir a integridade de produtos de software e a satisfação do usuário final, aplicando práticas sólidas de Garantia da Qualidade (QA).
+# 👋 Olá, eu sou a Layanne  
 
-## Sobre mim
-Com mais de **10 anos de experiência na indústria de software**, minha atuação vai além de encontrar bugs: meu foco é assegurar que o produto entregue atenda exatamente ao que foi planejado, com qualidade e eficiência.  
+✨ **QA Specialist | Garantia da Qualidade de Software** ✨  
+
+---
+
+## 🎯 Objetivo
+Garantir a integridade de produtos de software e a satisfação do usuário final, aplicando práticas sólidas de QA.
+
+---
+
+## 📖 Sobre mim
+Com mais de **10 anos de experiência na indústria de software**, minha atuação vai além de encontrar bugs: meu foco é assegurar que o produto entregue atenda exatamente ao que foi planejado, com qualidade e eficiência.  
 Tenho sólida experiência em transitar entre times técnicos e de negócios, sempre buscando otimizar processos de validação para reduzir o *time-to-market* sem sacrificar a qualidade.
 
-## O que eu entrego
-- **Estratégia de Testes:** Planejamento e execução de testes Manuais, Funcionais, Regressivos e Exploratórios em ambientes Web e API.  
-- **Documentação Técnica:** Elaboração detalhada de cenários de teste e evidências de auditoria.  
-- **Gestão de Defeitos:** Análise de causa raiz e reporte assertivo utilizando Jira e Azure DevOps.  
-- **Agilidade:** Vivência diária em rituais Scrum e Kanban, facilitando a comunicação entre Devs e POs.  
+---
 
-## Tech Stack
-- **Linguagens & Banco de Dados:** SQL  
-- **Ferramentas:** Jira, TestLink, Azure DevOps, Postman  
-- **Metodologias:** Scrum, Kanban  
+## 🛠️ O que eu entrego
+- **Estratégia de Testes:** Manuais, Funcionais, Regressivos e Exploratórios (Web e API)  
+- **Documentação Técnica:** Cenários de teste e evidências de auditoria  
+- **Gestão de Defeitos:** Análise de causa raiz e reporte assertivo (Jira, Azure DevOps)  
+- **Agilidade:** Vivência em Scrum e Kanban, facilitando comunicação entre Devs e POs  
 
-## Atualmente aprendendo
-- Automação de testes com **Cypress**, **Rest Assured** e **Playwright**  
-- Boas práticas de arquitetura de testes automatizados  
-- Integração de pipelines de CI/CD com testes automatizados  
+---
 
-## Projetos em destaque
-- Projeto de estudos em automação de testes utilizando **Cypress**, **Rest Assured** e **Playwright** (em andamento) 
+## 🚀 Tech Stack & Ferramentas
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</div>
 
-## Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/layanne-batista/)
-- E-mail: [contato.layanne.batista@gmail.com]
+---
 
-[![Layanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=layannebatista).](https://github.com/layannebatista/github-readme-stats)
+## 📚 Atualmente aprendendo
+<div align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layannebatista&layout=compact&theme=radical)
+---
 
+## 📊 Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=layannebatista&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layannebatista&layout=compact&theme=radical"/>
+</div>
+
+---
+
+## 🌐 Como me encontrar
+<div align="center">
+  <a href="https://www.linkedin.com/in/layanne-batista/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:contato.layanne.batista@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+</div>
