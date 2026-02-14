@@ -44,8 +44,6 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
 
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
