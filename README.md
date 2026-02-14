@@ -29,8 +29,7 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 - [LinkedIn](https://www.linkedin.com/in/layanne-batista/)
 - E-mail: [contato.layanne.batista@gmail.com]
 
-![Layanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=layannebatista&show_icons=true&theme=radical)
-
+[![Layanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=layannebatista).](https://github.com/layannebatista/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layannebatista&layout=compact&theme=radical)
 
