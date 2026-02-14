@@ -104,7 +104,5 @@ Sistema corporativo para **gestão de ativos empresariais**, garantindo controle
 
 📌 [Acesse o repositório](https://github.com/layannebatista/asset-management)
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-
 </div>
 
