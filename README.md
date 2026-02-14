@@ -39,8 +39,8 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 ## 🎬 Diversão no meu perfil
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SEUUSUARIO)
-![Profile views](https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=layannbatista)
+![Profile views](https://komarev.com/ghpvc/?username=layannebatista&color=blue)
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
 
