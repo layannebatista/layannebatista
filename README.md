@@ -12,8 +12,28 @@ Garantir a integridade de produtos de software e a satisfação do usuário fina
 ---
 
 ## 📖 Sobre mim
-Com mais de **10 anos de experiência na indústria de software**, minha atuação vai além de encontrar bugs: meu foco é assegurar que o produto entregue atenda exatamente ao que foi planejado, com qualidade e eficiência.  
-Tenho sólida experiência em transitar entre times técnicos e de negócios, sempre buscando otimizar processos de validação para reduzir o *time-to-market* sem sacrificar a qualidade.
+
+Atuo na área de Garantia da Qualidade desde **outubro de 2012**, acumulando mais de **13 anos de experiência na indústria de software**, com foco em confiabilidade, arquitetura e governança técnica.
+
+Minha atuação vai além da validação funcional. Ao longo da minha trajetória, desenvolvi uma visão sistêmica que conecta requisitos de negócio, arquitetura técnica e práticas de qualidade para garantir que produtos sejam:
+
+- Escaláveis  
+- Seguros  
+- Auditáveis  
+- Sustentáveis a longo prazo  
+
+Tenho experiência em transitar entre times técnicos e áreas estratégicas, apoiando decisões que reduzem riscos, aumentam previsibilidade e preservam a integridade dos sistemas.
+
+Nos últimos anos, venho aprofundando minha atuação em **backend e arquitetura enterprise**, aplicando conceitos como:
+
+- Arquitetura em camadas  
+- Multi-tenant  
+- Segurança baseada em contexto  
+- Versionamento de banco de dados  
+- Governança de código  
+- Observabilidade e rastreabilidade  
+
+Meu objetivo é evoluir continuamente como profissional que une **qualidade, arquitetura e visão sistêmica**, contribuindo para a construção de soluções robustas, seguras e orientadas a negócio.
 
 ---
 
