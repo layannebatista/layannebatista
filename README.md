@@ -2,67 +2,65 @@
 
 # 👋 Olá, eu sou a Layanne  
 
-✨ **QA Specialist | Garantia da Qualidade de Software** ✨  
+✨ **QA Specialist | Quality Engineering | Arquitetura & Governança de Software** ✨  
+
+</div>
 
 ---
 
 ## 🎯 Objetivo
-Garantir a integridade de produtos de software e a satisfação do usuário final, aplicando práticas sólidas de QA.
+
+Atuar na construção de produtos **seguros, escaláveis e confiáveis**, aplicando práticas sólidas de Qualidade de Software aliadas a visão arquitetural e governança técnica.
+
+Evoluir continuamente como profissional que conecta **qualidade, arquitetura e negócio**, contribuindo para soluções robustas e sustentáveis a longo prazo.
 
 ---
 
 ## 📖 Sobre mim
 
-Atuo na área de Garantia da Qualidade desde **outubro de 2012**, acumulando mais de **13 anos de experiência na indústria de software**, com foco em confiabilidade, arquitetura e governança técnica.
+Atuo na área de Garantia da Qualidade desde **2012**, acumulando mais de **13 anos de experiência na indústria de software**.
 
-Minha atuação vai além da validação funcional. Ao longo da minha trajetória, desenvolvi uma visão sistêmica que conecta requisitos de negócio, arquitetura técnica e práticas de qualidade para garantir que produtos sejam:
+Ao longo da minha trajetória, desenvolvi uma visão sistêmica que integra:
+
+- Requisitos de negócio  
+- Arquitetura técnica  
+- Estratégias de validação  
+- Governança de código  
+- Confiabilidade operacional  
+
+Minha atuação vai além da validação funcional. Trabalho apoiando decisões técnicas e estratégicas que garantem que os sistemas sejam:
 
 - Escaláveis  
 - Seguros  
 - Auditáveis  
-- Sustentáveis a longo prazo  
+- Sustentáveis  
 
-Tenho experiência em transitar entre times técnicos e áreas estratégicas, apoiando decisões que reduzem riscos, aumentam previsibilidade e preservam a integridade dos sistemas.
+Tenho experiência em transitar entre times técnicos e áreas estratégicas, reduzindo riscos, aumentando previsibilidade e promovendo maturidade de engenharia.
 
-Nos últimos anos, venho aprofundando minha atuação em **backend e arquitetura enterprise**, aplicando conceitos como:
-
-- Arquitetura em camadas  
-- Multi-tenant  
-- Segurança baseada em contexto  
-- Versionamento de banco de dados  
-- Governança de código  
-- Observabilidade e rastreabilidade  
-
-Meu objetivo é evoluir continuamente como profissional que une **qualidade, arquitetura e visão sistêmica**, contribuindo para a construção de soluções robustas, seguras e orientadas a negócio.
+Atualmente, venho aprofundando minha atuação em **backend e arquitetura enterprise**, aplicando conceitos como multi-tenant, segurança baseada em contexto, versionamento de banco de dados e observabilidade.
 
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
+
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
 </div>
 
 ---
 
 ## 📚 Atualmente aprendendo
-<div align="center">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-</div>
 
----
-
-## 🎬 Diversão no meu perfil
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=layannbatista)
-![Profile views](https://komarev.com/ghpvc/?username=layannebatista&color=blue)
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
 </div>
 
@@ -90,15 +88,21 @@ Meu objetivo é evoluir continuamente como profissional que une **qualidade, arq
 <img src="https://img.shields.io/badge/Frontend-In%20Progress-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-Java%2017-green?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-blue?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Architecture-Multi--Tenant-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Database-PostgreSQL%20%2B%20Docker-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Architecture-Multi--Tenant-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Security-JWT%20%2B%20RBAC-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-RestAssured%20%2B%20Playwright%20%2B%20Cypress-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docs-OpenAPI%203.0-success?style=for-the-badge"/>
 
 </div>
 
 ### 🎯 Objetivo
-Plataforma full-stack **multi-tenant de arquitetura enterprise** para gestão completa do ciclo de vida de ativos organizacionais, com isolamento rigoroso entre organizações, controle de acesso contextual, auditoria integral e dashboards por perfil.
+Projeto criado com foco em:
+
+- **Aprender e aplicar automação de testes em backend e frontend**
+
+O projeto está totalmente documentado e pode ser utilizado como base de estudo ou referência.  
+Se você quiser clonar, adaptar ou evoluir a solução, fique à vontade.
 
 ---
 
