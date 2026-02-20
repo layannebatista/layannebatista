@@ -61,44 +61,83 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 </div>
 
 ---
-
 ## 📂 Projeto em destaque: Asset Management
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Enterprise%20Architecture-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-Java%2017-green?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framework-Spring%20Boot%203.5.9-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Architecture-Multi--Tenant-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security-JWT%20%2B%20RBAC-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Migrations-Flyway-red?style=for-the-badge&logo=flyway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security-JWT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tests-JUnit%205%20%26%20Mockito-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Build-Maven-orange?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quality-JaCoCo%20%2B%20PMD%20%2B%20OWASP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docs-OpenAPI%203.0-success?style=for-the-badge"/>
 
 </div>
 
 ### 🎯 Objetivo
-Sistema corporativo para **gestão de ativos empresariais**, garantindo controle, rastreabilidade e eficiência na administração de recursos.
+Plataforma backend **multi-tenant de arquitetura enterprise** para gestão completa do ciclo de vida de ativos organizacionais, com isolamento rigoroso entre organizações, controle de acesso contextual e auditoria integral.
 
-### 🔧 Funcionalidades principais
-- Cadastro e edição de ativos  
-- Controle de status e histórico de movimentações  
-- Validação de dados com Jakarta Validation  
-- Segurança com autenticação JWT e RBAC/ABAC  
-- Monitoramento com Spring Actuator (health, métricas)  
-- Cache para otimização de consultas  
-- Migrações de banco com Flyway  
-- Testes automatizados com JUnit 5 e banco em memória H2  
+---
+
+### 🏗️ Arquitetura
+
+- Arquitetura em camadas (Controller → Service → Domain → Repository)  
+- Separação clara de responsabilidades  
+- Domínio orientado a regras de negócio  
+- Arquitetura stateless com autenticação JWT  
+- Suporte a escalabilidade horizontal  
+- Observabilidade com Spring Actuator  
+
+---
+
+### 🔐 Segurança & Multi-Tenant
+
+- Autenticação via JWT  
+- Controle de acesso baseado em roles (ADMINISTRATOR, MANAGER, OPERATOR)  
+- Isolamento completo entre organizações  
+- Validação de escopo em nível de service  
+- Proibição de acesso cross-tenant  
+
+---
+
+### 📊 Módulos Principais
+
+- Gestão de Organizações, Unidades e Usuários  
+- Gestão de Ativos e Ciclo de Vida  
+- Transferências com aprovação e rastreabilidade  
+- Ciclos de Inventário  
+- Manutenção com controle de estado  
+- Auditoria completa de ações  
+- Dashboard contextual por perfil (Executive, Unit, Personal)  
+
+---
+
+### 📈 Governança & Qualidade
+
+- Versionamento de banco com Flyway  
+- Hibernate `ddl-auto: validate` em produção  
+- Cobertura de testes com JaCoCo  
+- Análise estática com PMD  
+- Padronização automática com Spotless  
+- Verificação de vulnerabilidades com OWASP Dependency Check  
+- Documentação via OpenAPI 3 + Swagger UI  
+
+---
 
 ### 🚀 Tecnologias utilizadas
+
 - **Java 17**  
 - **Spring Boot (Web, Data JPA, Security, Validation, Cache, Actuator)**  
 - **PostgreSQL**  
-- **Flyway** para versionamento do banco  
-- **JWT** para autenticação e autorização  
-- **JUnit 5 + Mockito + H2** para testes  
-- **Maven** para build e gerenciamento de dependências  
-- **Plugins:** Spotless (formatação), OWASP Dependency Check (segurança), JaCoCo (cobertura de testes)  
+- **Flyway**  
+- **JWT (JJWT)**  
+- **JUnit 5 + Mockito + Rest-Assured + H2**  
+- **Maven**  
+
+---
 
 <div align="center">
 
