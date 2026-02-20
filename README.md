@@ -65,77 +65,92 @@ Tenho sólida experiência em transitar entre times técnicos e de negócios, se
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-Enterprise%20Architecture-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Completed-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-In%20Progress-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-Java%2017-green?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framework-Spring%20Boot%203.5.9-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-blue?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Architecture-Multi--Tenant-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL%20%2B%20Docker-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Security-JWT%20%2B%20RBAC-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Migrations-Flyway-red?style=for-the-badge&logo=flyway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Quality-JaCoCo%20%2B%20PMD%20%2B%20OWASP-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docs-OpenAPI%203.0-success?style=for-the-badge"/>
 
 </div>
 
 ### 🎯 Objetivo
-Plataforma backend **multi-tenant de arquitetura enterprise** para gestão completa do ciclo de vida de ativos organizacionais, com isolamento rigoroso entre organizações, controle de acesso contextual e auditoria integral.
+Plataforma full-stack **multi-tenant de arquitetura enterprise** para gestão completa do ciclo de vida de ativos organizacionais, com isolamento rigoroso entre organizações, controle de acesso contextual, auditoria integral e dashboards por perfil.
 
 ---
 
 ### 🏗️ Arquitetura
 
 - Arquitetura em camadas (Controller → Service → Domain → Repository)  
-- Separação clara de responsabilidades  
-- Domínio orientado a regras de negócio  
-- Arquitetura stateless com autenticação JWT  
-- Suporte a escalabilidade horizontal  
+- Backend stateless com autenticação JWT  
+- Isolamento multi-tenant por organização  
+- PostgreSQL executando via Docker  
+- Versionamento de banco com Flyway  
 - Observabilidade com Spring Actuator  
+- Documentação automática com OpenAPI 3 + Swagger UI  
 
 ---
 
-### 🔐 Segurança & Multi-Tenant
+### 🔐 Segurança & Controle de Acesso
 
 - Autenticação via JWT  
-- Controle de acesso baseado em roles (ADMINISTRATOR, MANAGER, OPERATOR)  
-- Isolamento completo entre organizações  
-- Validação de escopo em nível de service  
-- Proibição de acesso cross-tenant  
+- RBAC com perfis ADMINISTRATOR, MANAGER e OPERATOR  
+- Validação de escopo organizacional  
+- Bloqueio de acesso cross-tenant  
+- Auditoria completa de ações críticas  
 
 ---
 
-### 📊 Módulos Principais
+### 📊 Módulos Implementados (Backend)
 
-- Gestão de Organizações, Unidades e Usuários  
-- Gestão de Ativos e Ciclo de Vida  
+- Organizações, Unidades e Usuários  
+- Gestão de Ativos e ciclo de vida  
 - Transferências com aprovação e rastreabilidade  
 - Ciclos de Inventário  
 - Manutenção com controle de estado  
-- Auditoria completa de ações  
-- Dashboard contextual por perfil (Executive, Unit, Personal)  
+- Auditoria  
+- Dashboard contextual (Executive, Unit, Personal)  
 
 ---
 
-### 📈 Governança & Qualidade
+### 🖥 Frontend (Em desenvolvimento)
 
-- Versionamento de banco com Flyway  
-- Hibernate `ddl-auto: validate` em produção  
-- Cobertura de testes com JaCoCo  
-- Análise estática com PMD  
-- Padronização automática com Spotless  
-- Verificação de vulnerabilidades com OWASP Dependency Check  
-- Documentação via OpenAPI 3 + Swagger UI  
+Stack definida:
+
+- **Vite**
+- **React**
+- **TypeScript**
+
+Estrutura inicial criada para futura integração com a API.
 
 ---
 
-### 🚀 Tecnologias utilizadas
+### 📈 Qualidade & Governança
 
-- **Java 17**  
-- **Spring Boot (Web, Data JPA, Security, Validation, Cache, Actuator)**  
-- **PostgreSQL**  
-- **Flyway**  
-- **JWT (JJWT)**  
-- **JUnit 5 + Mockito + Rest-Assured + H2**  
-- **Maven**  
+- JaCoCo (cobertura de testes)  
+- PMD (análise estática)  
+- Spotless (padronização de código)  
+- OWASP Dependency Check  
+- Hibernate `ddl-auto: validate` em ambiente produtivo  
+
+---
+
+### 🚀 Tecnologias
+
+**Backend**
+- Java 17  
+- Spring Boot (Web, Data JPA, Security, Validation, Cache, Actuator)  
+- PostgreSQL  
+- Flyway  
+- JWT  
+
+**Frontend (Planejado)**
+- Vite  
+- React  
+- TypeScript  
 
 ---
 
@@ -144,4 +159,3 @@ Plataforma backend **multi-tenant de arquitetura enterprise** para gestão compl
 📌 [Acesse o repositório](https://github.com/layannebatista/asset-management)
 
 </div>
-
