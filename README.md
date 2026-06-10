@@ -50,13 +50,6 @@ Possuo perfil analítico e investigativo, com forte atenção aos detalhes, capa
 
 ## Projetos
 
-### [Asset Management — Plataforma Enterprise de Gestão de Ativos](https://github.com/layannebatista/asset-management)
-
-Projeto desenvolvido para estudo e prática de Quality Engineering em um contexto enterprise real. A plataforma serviu de base para aplicar uma stack completa de qualidade: testes unitários com JUnit 5, testes de integração com Testcontainers, testes de API com Rest Assured, BDD com Cucumber/Gherkin, testes E2E e Playwright, testes de carga com k6, validação de arquitetura com ArchUnit, cobertura com JaCoCo, mutation testing com PIT e análise estática com PMD. Observabilidade com Prometheus + Grafana. Relatórios com Allure. Pipeline CI/CD com GitHub Actions.
-
-Quer que eu atualize o README completo com essa correção?
----
-
 ### [AccountGo API Tests](https://github.com/layannebatista/accountgo-api-tests)
 
 Suite de testes automatizados para a API do AccountGo ERP (ASP.NET Core), cobrindo os módulos Financeiro, Vendas, Inventário e Comum — 41 testes no total, incluindo cenários negativos, fluxos encadeados e testes de performance.
